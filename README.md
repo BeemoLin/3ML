@@ -5,6 +5,8 @@
 
 - 機器學習百日馬拉松期末考 - 花朵辨識 https://www.kaggle.com/c/ml100-03-final/overview
 
+- 競賽資料集：花朵辨識 - 是一個公開資料集 https://www.kaggle.com/alxmamaev/flowers-recognition/kernels
+
 - 程式碼 source code: https://github.com/BeemoLin/3ML/blob/master/TF_Flower/ResNet50_BMO.ipynb
 
 Transfer learning
