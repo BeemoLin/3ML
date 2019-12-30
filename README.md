@@ -10,6 +10,7 @@ Transfer learning
   - base model: resnet50v2
   - pretrain weight: 'imagenet'
 
+![image](https://raw.githubusercontent.com/BeemoLin/3ML/master/resnet50v2.png)
   
 - Epoch 80/80
 3/3 [==============================] - 4s 1s/step
