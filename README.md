@@ -18,6 +18,9 @@ Transfer learning
 
 - loss: 0.0097 - acc: 1.0000 - val_loss: 0.0223 - val_acc: 1.0000
 
+![image](https://raw.githubusercontent.com/BeemoLin/3ML/master/acc.png)
+![image](https://raw.githubusercontent.com/BeemoLin/3ML/master/loss.png)
+
 ### 心得：過程嘗試過凍結layer，但是並沒有好的結果，這個model，learning rate 要設小一點才會發揮transfer learning的效果
 
 ![image](https://raw.githubusercontent.com/BeemoLin/3ML/master/3rdML100Final.png)
