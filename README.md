@@ -1,6 +1,6 @@
 ### Beemo's AI playground
 
-### 2019/12/30 百日馬拉松 完賽
+### 2019/12/30 百日馬拉松 完賽心得
 - 課程資訊 https://ai100-3.cupoy.com/participator/E9813924/questions
 
 - 機器學習百日馬拉松期末考 - 花朵辨識 https://www.kaggle.com/c/ml100-03-final/overview
