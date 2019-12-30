@@ -5,7 +5,8 @@
 
 - 機器學習百日馬拉松期末考 - 花朵辨識 https://www.kaggle.com/c/ml100-03-final/overview
 
-- source code: https://github.com/BeemoLin/3ML/blob/master/TF_Flower/ResNet50_BMO.ipynb
+- 程式碼 source code: https://github.com/BeemoLin/3ML/blob/master/TF_Flower/ResNet50_BMO.ipynb
+
 Transfer learning
   - base model: resnet50v2
   - pretrain weight: 'imagenet'
