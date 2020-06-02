@@ -23,6 +23,9 @@ Transfer learning
 ![image](https://raw.githubusercontent.com/BeemoLin/3ML/master/acc.png)
 ![image](https://raw.githubusercontent.com/BeemoLin/3ML/master/loss.png)
 
-### 心得：過程嘗試過凍結layer，但是並沒有好的結果，這個model，learning rate 要設小一點才會發揮transfer learning的效果
+### 心得：
+- 過程嘗試過凍結layer，但是並沒有好的結果，這個model
+- learning rate 要設小一點才會發揮transfer learning的效果
+- 另外可以嘗試用多種模型來進行投票提升預測結果準確度
 
 ![image](https://raw.githubusercontent.com/BeemoLin/3ML/master/3rdML100Final.png)
